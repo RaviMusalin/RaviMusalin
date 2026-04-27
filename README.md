@@ -8,14 +8,14 @@ Rebuilding my Spotify app with React + TypeScript, adding features like playlist
 
 💻 Projects I've worked on include:
 
-Spotify Web App
+Spotify Web App:
 A React + TypeScript app that allows users to search for songs, build playlists, and save them directly to Spotify using the Spotify API
 You can view the current version of this app here: https://ravimyspotify.netlify.app/
 
-MyLibrary App
+MyLibrary App:
 A full-stack application built with Python, Flask, and PostgreSQL that integrates the Google Books API and allows users to manage and track their personal book collections
 
-E-commerce Refactor
+E-commerce Refactor:
 Helped refactor a legacy e-commerce site into a modern Next.js + TypeScript application, improving performance, scalability, and user experience.
 
 📫 How to reach me:
