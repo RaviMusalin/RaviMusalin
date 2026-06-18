@@ -10,7 +10,6 @@ Rebuilding my Spotify app with React + TypeScript, adding features like playlist
 
 Spotify Web App:
 A React + TypeScript app that allows users to search for songs, build playlists, and save them directly to Spotify using the Spotify API
-You can view the current version of this app here: https://ravimyspotify.netlify.app/
 
 MyLibrary App:
 A full-stack application built with Python, Flask, and PostgreSQL that integrates the Google Books API and allows users to manage and track their personal book collections
