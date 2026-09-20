@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hello
 
-I'm Ravi, a Full-Stack Software Engineer passionate about building scalable web applications and turning ideas into real, usable products. I enjoy working across the stack and have a strong focus on React, Next.js, and modern JavaScript.
+I'm Ravi, a Full-Stack Software Engineer passionate about building web applications. I enjoy working across the stack and have a strong focus on React, Next.js, and modern JavaScript.
 
-🔭 Currently working on:
+I am currently working on:
 
 Rebuilding my Spotify app with React + TypeScript, adding features like playlist creation and saving to Spotify
 
-💻 Projects I've worked on include:
+Projects I've worked on include:
 
 Spotify Web App:
 A React + TypeScript app that allows users to search for songs, build playlists, and save them directly to Spotify using the Spotify API
@@ -16,10 +16,6 @@ A full-stack application built with Python, Flask, and PostgreSQL that integrate
 
 E-commerce Refactor:
 Helped refactor a legacy e-commerce site into a modern Next.js + TypeScript application, improving performance, scalability, and user experience.
-
-📫 How to reach me:
-
-Feel free to e-mail me at: sheikhmusalin@gmail.com
 <!--
 **RaviMusalin/RaviMusalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
