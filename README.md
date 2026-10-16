@@ -4,7 +4,7 @@ I'm Ravi, a Full-Stack Software Engineer passionate about building web applicati
 
 I am currently working on:
 
-Rebuilding my Spotify app with React + TypeScript, adding features like playlist creation and saving to Spotify
+Building an e-commerce site focused on aquariums and fish to strengthen my skills with Node, Express, React, and SQLite
 
 Projects I've worked on include:
 
